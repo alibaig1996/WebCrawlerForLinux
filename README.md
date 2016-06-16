@@ -1,0 +1,1 @@
+Project built for Linux. Requires QT to launch
